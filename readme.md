@@ -19,3 +19,7 @@ git push -u origin master
 git add .
 git commit -m "Update file"
 git push origin master
+
+拉取更新：
+git pull origin master
+
