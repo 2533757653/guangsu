@@ -14,3 +14,10 @@ class base:
 #     gongdangongxu=[{'工单编号':'', '物料编号':'', '工序':'', '资源池':'', '资源ID':'', '资源需求':'', '开始时间':'', '结束时间':''}]
 #     gongxurenwu=[{}]   #?
 #     paichengjieguo=[{}]  #?
+class paiban:
+    def __init__(self) -> None:
+        pass
+    
+    def calculate(self):
+        
+        pass
